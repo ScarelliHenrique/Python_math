@@ -1,3 +1,5 @@
+#converte as temperaturas Celsius, Kelvin e Farhenheit
+
 print('Em qual escala está a temperatura que você quer converter?')
 print('Digite C para Celsius, F para Fahrenheit e K para Kelvin')
 escolha = input('Qual é a escala atual da temperatura? ').strip().upper()

@@ -1,3 +1,5 @@
+#calcula o valor de um polinômio para um determinado valor de x.
+
 def poly_func(x):
     return x**2 + 3*x + 2
 poly_value=poly_func(5)

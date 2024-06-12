@@ -1,3 +1,5 @@
+#formula progressao geometrica
+
 primeiro = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
 

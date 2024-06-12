@@ -1,3 +1,5 @@
+#calcula a media entre os numeros digitados
+
 num=int(input('How many numbers '))
 total_sum=0
 

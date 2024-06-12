@@ -1,3 +1,4 @@
+#equação de Bhaskara
 import math 
 
 a=int(input('Digite o valor de A:'))
